@@ -9,4 +9,4 @@ This repository is a part of my pet project, where i work to implement my unders
 # similarity measure
 For calcuting similarity i have used cosine similarity.
 
-please refer .ipynb file for more information about my implementation
+*please refer .ipynb file for more information about my implementation*
